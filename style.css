@@ -1,0 +1,2 @@
+body { margin: 0; overflow: hidden; } /* Remove default margin, hide scrollbars */
+canvas { display: block; } /* Prevent canvas adding extra space */
